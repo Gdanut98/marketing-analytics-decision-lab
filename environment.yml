@@ -1,0 +1,11 @@
+name: marketing-analytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - jupyter
